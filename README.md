@@ -1,5 +1,4 @@
 # お手軽Ruby on Rails project for Docker
----
 簡単にDockerでprojectを立ち上げたい人向けのズボラスクリプト
 
 ## How to
@@ -14,5 +13,5 @@ $> . setup.sh
     - `docker-compose run --rm web rails db:create`
     - `docker-compose up -d --build`
 
-----
-質問等は(komisan19)[https://github.com/komisan19]まで
+
+質問等は[komisan19](https://github.com/komisan19)まで
